@@ -46,5 +46,8 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+<img width="1918" height="845" alt="Screenshot 2025-09-26 214633" src="https://github.com/user-attachments/assets/3ae1b6db-9ee9-4c28-967d-a31abd869a0d" />
 ## Output
+<img width="1918" height="959" alt="Screenshot 2025-09-26 214558" src="https://github.com/user-attachments/assets/504b9607-df8a-4467-80de-8a7eb4ffa458" />
 ## Result
+THUS,THE EXPERIMENT IS SIMULATED AND THE OUTPUT HAS BEEN VERIFIED BY UING MATLAB.
